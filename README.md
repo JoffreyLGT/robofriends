@@ -5,6 +5,6 @@ A search engine allow the user to filter the robots that are displayed.
 
 ## Ressources used
 - __create-react-app__
-- __tachyons__: used to apply predefined CSS classes
+- __tachyons__: used to apply predefined CSS classes.
 - __https://robohash.org/__: API that is returning randomly generated pictures.
 - __https://jsonplaceholder.typicode.com/__: used to test the fetch and display information.
